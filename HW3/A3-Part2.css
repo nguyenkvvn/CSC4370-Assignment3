@@ -1,0 +1,12 @@
+table
+{
+  width: 300px;
+}
+td
+{
+  height: 35px;
+  width: 35px;
+  border: 1px;
+  padding: 1px;
+  margin: 1px;
+}
